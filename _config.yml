@@ -84,9 +84,9 @@ author:
   avatar           : "main_pic.jpg"
   bio              : "PhD Candidate @ UIUC"
   location         : "Champaign,IL"
-  employer         : "University of Illinos at Urbana-Champaign"
+  employer         : "University of Illinos"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=mASdc3sAAAAJ&hl=en"
   email            : "gg24@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gerasimos-gerogiannis-5765ba228"
+  linkedin         : "gerasimos-gerogiannis-5765ba228"
   orcid            : 
   pinterest        :
   soundcloud       :
