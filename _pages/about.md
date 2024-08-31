@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Gerasimos Gerogiannis, a PhD candidate in the University of Illinois at Urbana-Champaign. Since Gerasimos tends to be difficult to pronounce, I am mostly known by my nickname Makis. I am a member of the i-acoma computer architecture group and I am advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My main research focus is the acceleration of irregular applications such as Graph Analytics at extreme scale. Towards that goal, I am investigating synergies between software and flexible domain-specific hardware. When I am not busy multiplying sparse matrices, I enoy engineering Machine Learning based hardware agents to increase the IPC in SPEC :).
 
-You can find my CV [here](https://gergerog.github.io/files/cv_mar24.pdf).
+You can find my CV [here](https://gergerog.github.io/files/cv_aug24.pdf).
 
 The rest of my site is currently under construction!
 
