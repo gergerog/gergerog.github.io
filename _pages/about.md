@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Gerasimos Gerogiannis, a PhD candidate in the University of Illinois at Urbana-Champaign. Since Gerasimos tends to be difficult to pronounce, I am mostly known by my nickname Makis. I am a member of the i-acoma computer architecture group and I am advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). My main research focus is the acceleration of irregular applications such as Graph Analytics at extreme scale. Towards that goal, I am investigating synergies between software and flexible domain-specific hardware. When I am not busy multiplying sparse matrices, I enoy engineering Machine Learning based hardware agents to increase the IPC in SPEC :).
+Hi! I am Gerasimos Gerogiannis, a PhD candidate in the University of Illinois at Urbana-Champaign. Since Gerasimos tends to be difficult to pronounce, I am mostly known by my nickname Makis. I am a member of the i-acoma computer architecture group and I am advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
 
-You can find my CV [here](https://gergerog.github.io/files/cv_sep25.pdf).
+My research focuses on accelerator-centric computing for machine learning, graph analytics, and scientific applications.
+Alongside developing accelerator architectures, I have proposed techniques for accelerator interfacing, performance modeling, software- and hardware-level tuning, and large-scale system integration. 
+I have published 14 papers (8 as first author), with most appearing in top-tier venues such as ISCA, MICRO, ASPLOS, HPCA, and ICML.
+In addition, I have filed four U.S. patents with Intel on CPU architecture redesign for Machine Learning workloads. 
+Among other awards, my research has been recognized with one IEEE MICRO Top Pick and one Honorable Mention. 
 
-The rest of my site is currently under construction!
+You can find my CV [here](https://gergerog.github.io/files/cv_oct25.pdf).
+
+
 
 <!-- 
 My research has recently appeared at ISCA
