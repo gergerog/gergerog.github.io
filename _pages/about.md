@@ -16,7 +16,7 @@ I have published 14 papers (8 as first author), with most appearing in top-tier 
 In addition, I have filed four U.S. patents with Intel on CPU architecture redesign for Machine Learning workloads. 
 Among other awards, my research has been recognized with one IEEE MICRO Top Pick and one Honorable Mention. 
 
-You can find my CV [here](https://gergerog.github.io/files/cv_oct25.pdf).
+You can find my CV [here](https://gergerog.github.io/files/CV.pdf).
 
 
 
