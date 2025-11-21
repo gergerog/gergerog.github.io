@@ -16,7 +16,8 @@ author_profile: true
 
 - **IEEE Micro Top Picks – Top Pick (2024)**  
   Awarded to the 12 most significant computer architecture papers of the year.  
-  Top Pick for [*Micro-Armed Bandit: Lightweight & Reusable Reinforcement Learning for Microarchitecture Decision-Making.*](https://gergerog.github.io/files/micro23.pdf)
+  Top Pick for:
+  [*Micro-Armed Bandit: Lightweight & Reusable Reinforcement Learning for Microarchitecture Decision-Making.*](https://gergerog.github.io/files/micro23.pdf)
 
 - **IEEE Micro Top Picks – Honorable Mention (2024)**  
   Honorable Mention for:  
