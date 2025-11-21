@@ -1,0 +1,24 @@
+/* ----- Color Macros ----- */
+.color-blue        { color: #1a73e8; font-weight: 600; }
+.color-blue-dark   { color: #0d47a1; font-weight: 600; }
+
+/* Oranges */
+.color-orange      { color: #e65100; font-weight: 600; }
+.color-orange-light{ color: #ff9800; font-weight: 600; }
+
+/* Reds / Pinks */
+.color-red         { color: #d81b60; font-weight: 600; }
+.color-red-dark    { color: #b71c1c; font-weight: 600; }
+
+/* Purples */
+.color-purple      { color: #8e24aa; font-weight: 600; }
+.color-purple-dark { color: #4a148c; font-weight: 600; }
+
+/* Greens */
+.color-green       { color: #2e7d32; font-weight: 600; }       /* Deep green */
+.color-green-light { color: #43a047; font-weight: 600; }       /* Lighter green */
+.color-green-dark  { color: #1b5e20; font-weight: 600; }       /* Very dark green */
+
+/* Greys */
+.color-grey        { color: #546e7a; font-weight: 600; }
+.color-black       { color: #000000; font-weight: 600; }

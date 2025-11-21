@@ -3,6 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Awards and Recognitions"
+    url: /awards/
+
   # - title: "Talks"
   #   url: /talks/    
 
