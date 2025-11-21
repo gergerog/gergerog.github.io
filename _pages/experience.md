@@ -23,7 +23,7 @@ author_profile: true
 
 ## Work Experience
 
-**Intel Corporation — CPU Architecture & Performance Intern**
+**Intel Corporation — CPU Architecture & Performance Intern**  
 **Jan 2024 – Dec 2025**  
 
 
