@@ -36,8 +36,8 @@ author_profile: true
    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*, November 2024.
 
 5. <span class="color-blue-dark">**[ASPLOS-24]**</span> [*Two-Face: Combining Collective and One-Sided Communication for Efficient Distributed SpMM*](https://gergerog.github.io/files/asplos24.pdf)   
-   Charles Block*, **Gerasimos Gerogiannis***, Charith Mendis, Ariful Azad, and Josep Torrellas  
-   *Co-first authors, order is alphabetical.*  
+   Charles Block\*, **Gerasimos Gerogiannis**\*, Charith Mendis, Ariful Azad, and Josep Torrellas  
+   **\*Co-first authors, order is alphabetical.**  
    *Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.
 
 4. <span class="color-blue-dark">**[HPCA-24]**</span> [*HotTiles: Accelerating SpMM with Heterogeneous Accelerator Architectures*(https://gergerog.github.io/files/hpca24.pdf)]   

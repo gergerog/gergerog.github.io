@@ -16,12 +16,12 @@ author_profile: true
 
 - **IEEE Micro Top Picks – Top Pick (2024)**  
   Awarded to the 12 most significant computer architecture papers of the year.  
-  Top Pick for:
+  Top Pick for:  
   [*Micro-Armed Bandit: Lightweight & Reusable Reinforcement Learning for Microarchitecture Decision-Making.*](https://gergerog.github.io/files/micro23.pdf)
 
 - **IEEE Micro Top Picks – Honorable Mention (2024)**  
   Honorable Mention for:  
-  [*SPADE: A Flexible and Scalable Accelerator for SpMM and SDDMM.](https://gergerog.github.io/files/isca23.pdf) 
+  [*SPADE: A Flexible and Scalable Accelerator for SpMM and SDDMM.*](https://gergerog.github.io/files/isca23.pdf) 
 
 - **Conference Travel Grants – ISCA/MICRO/HPCA/ASPLOS (2023–2025)**
 
