@@ -23,7 +23,7 @@ author_profile: true
    Charles Block, **Gerasimos Gerogiannis**, and Josep Torrellas  
    *Proceedings of the International Symposium on Microarchitecture (MICRO)*, October 2025.
 
-8. <span class="color-purple">**[ICML-25]**</span> [*COGNATE: Learning-Based Acceleration of Sparse Tensor Programs on Emerging Hardware*](https://gergerog.github.io/files/icml25.pdf)   
+8. <span class="color-orange-light">**[ICML-25]**</span> [*COGNATE: Learning-Based Acceleration of Sparse Tensor Programs on Emerging Hardware*](https://gergerog.github.io/files/icml25.pdf)   
    Chamika Sudusinghe, **Gerasimos Gerogiannis**, Damitha Lenadora, Charles Block, Josep Torrellas, and Charith Mendis  
    *Proceedings of the International Conference on Machine Learning (ICML)*, July 2025.
 
@@ -31,7 +31,7 @@ author_profile: true
    Hyoungwook Nam, **Gerasimos Gerogiannis**, and Josep Torrellas  
    *Proceedings of the International Symposium on Computer Architecture (ISCA)*, June 2025.
 
-6. <span class="color-orange-light">**[SC-24]**</span> [*Distributed-Memory Parallel Algorithms for Sparse Matrix and Sparse Tall-and-Skinny Matrix Multiplication*](https://gergerog.github.io/files/sc24.pdf)   
+6. <span class="color-purple">**[SC-24]**</span> [*Distributed-Memory Parallel Algorithms for Sparse Matrix and Sparse Tall-and-Skinny Matrix Multiplication*](https://gergerog.github.io/files/sc24.pdf)   
    Isuru Ranawaka, Md Taufique Hussain, Charles Block, **Gerasimos Gerogiannis**, Josep Torrellas, and Ariful Azad  
    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*, November 2024.
 
@@ -47,7 +47,7 @@ author_profile: true
 3. <span class="color-blue-dark">**[MICRO-23]**</span> [*Micro-Armed Bandit: Lightweight & Reusable Reinforcement Learning for Microarchitecture Decision-Making*](https://gergerog.github.io/files/micro23.pdf)   
    **Gerasimos Gerogiannis** and Josep Torrellas  
    *Proceedings of the International Symposium on Microarchitecture (MICRO)*, October 2023.  
-   <span class="color-red">*Selected as a Top Pick in IEEE Micro Top Picks from Computer Architecture Conferences.*</span>
+   <span class="color-red">***Selected as a Top Pick in IEEE Micro Top Picks from Computer Architecture Conferences.***</span>
 
 2. <span class="color-blue-dark">**[ISCA-23]**</span> [*SPADE: A Flexible and Scalable Accelerator for SpMM and SDDMM*](https://gergerog.github.io/files/isca23.pdf)   
    **Gerasimos Gerogiannis**, Serif Yesil, Damitha Lenadora, Dingyuan Cao, Charith Mendis, and Josep Torrellas  
@@ -74,6 +74,6 @@ author_profile: true
 
 ## Workshop Publications (with proceedings)
 
-1. <span class="color-purple">**[ICML-EXAIT-25]**</span> [*Automated Data Selection for Efficient Cost Model Training to Optimize Sparse Matrix Kernels on Emerging Hardware Accelerators*](https://gergerog.github.io/files/exait25.pdf)   
+1. <span class="color-orange-light">**[ICML-EXAIT-25]**</span> [*Automated Data Selection for Efficient Cost Model Training to Optimize Sparse Matrix Kernels on Emerging Hardware Accelerators*](https://gergerog.github.io/files/exait25.pdf)   
    Chamika Sudusinghe, **Gerasimos Gerogiannis**, Damitha Lenadora, Charles Block, Josep Torrellas, and Charith Mendis  
    *Exploration in AI Today Workshop at ICML*, 2025.
