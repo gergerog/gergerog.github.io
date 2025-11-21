@@ -8,13 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Gerasimos Gerogiannis, a PhD candidate in the University of Illinois at Urbana-Champaign. Since Gerasimos tends to be difficult to pronounce, I am mostly known by my nickname Makis. I am a member of the i-acoma computer architecture group and I am advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
+Hi! I am Gerasimos Gerogiannis, a PhD candidate in the University of Illinois at Urbana-Champaign (UIUC). Since Gerasimos tends to be difficult to pronounce, I am mostly known by my nickname Makis. I am a member of the i-acoma computer architecture group and I am advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
+Prior to joining UIUC, I received the Diploma Degree (BSc+MSc) in Electrical and Computer Engineering from the University of Patras, Greece. 
 
-My research focuses on accelerator-centric computing for machine learning, graph analytics, and scientific applications.
-Alongside developing accelerator architectures, I have proposed techniques for accelerator interfacing, performance modeling, software- and hardware-level tuning, and large-scale system integration. 
+I am interested in building efficient accelerator-based heterogeneous systems for machine learning and scientific applications.
+My research has exposed fundamental barriers to the efficiency of modern specialization-rich systems,
+stemming from legacy general-purpose design practices. To overcome such barriers, I have re-architected and co-designed the end-to-end system stack around heterogeneity – from accelerators to processors, networks, algorithms, and optimizing compilers. I refer to this holistic system design paradigm as *accelerator-centric*.
+
+To bridge the gaps between hosts and devices, I have co-designed processor and accelerator architectures that *eliminate control and data movement overheads* \[[*SPADE*-**ISCA'23**](https://gergerog.github.io/files/isca23.pdf)\],\[[*DECA*-**MICRO'25**](https://gergerog.github.io/files/micro25-1.pdf)\]. Further, I have proposed both analytical and machine learning-aided methods that automate 
+performance optimization, making emerging accelerators *easier to program and tune* \[[*Bandit*-**MICRO'23**](https://gergerog.github.io/files/micro23.pdf)\],\[[*HotTiles*-**HPCA'24**](https://gergerog.github.io/files/hpca24.pdf)\],\[[*COGNATE*-**ICML'25**](https://gergerog.github.io/files/icml25.pdf)\],\[[*Micro-Mama*-**MICRO'25**](https://gergerog.github.io/files/micro25-2.pdf)\]. 
+Finally, I redesigned software communication algorithms and hardware networking
+devices to make distributed heterogeneous systems *easier to scale* \[[*Two-Face*-**ASPLOS'24**](https://gergerog.github.io/files/asplos24.pdf)\],\[[*MeshSlice*-**ISCA'25**](https://gergerog.github.io/files/isca25.pdf)\],\[[*NetSparse*-**MICRO'25**](https://gergerog.github.io/files/micro25-3.pdf)\].
+
+Besides accelerator-centric system design, I am also broadly interested in the applications of machine-learning to systems and computer architecture. 
+
 I have published 14 papers (8 as first author), with most appearing in top-tier venues such as ISCA, MICRO, ASPLOS, HPCA, and ICML.
 In addition, I have filed four U.S. patents with Intel on CPU architecture redesign for Machine Learning workloads. 
-Among other awards, my research has been recognized with one IEEE MICRO Top Pick and one Honorable Mention. 
+Among other awards, my research has been recognized with one **IEEE MICRO Top Pick** and one **Honorable Mention**. 
 
 You can find my CV [here](https://gergerog.github.io/files/CV.pdf).
 
