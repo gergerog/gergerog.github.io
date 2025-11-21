@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Awards and Honors"
+permalink: /awards/
+author_profile: true
+---
+
 - **MICRO PhD Forum – IEEE TCuARCH (2025)**  
   Selected to present PhD research at the PhD Forum of the International Symposium on Microarchitecture.
 
