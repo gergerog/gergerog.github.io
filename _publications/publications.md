@@ -40,7 +40,7 @@ author_profile: true
    **\*Co-first authors, order is alphabetical.**  
    *Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.
 
-4. <span class="color-blue-dark">**[HPCA-24]**</span> [*HotTiles: Accelerating SpMM with Heterogeneous Accelerator Architectures*(https://gergerog.github.io/files/hpca24.pdf)]   
+4. <span class="color-blue-dark">**[HPCA-24]**</span> [*HotTiles: Accelerating SpMM with Heterogeneous Accelerator Architectures*](https://gergerog.github.io/files/hpca24.pdf)   
    **Gerasimos Gerogiannis**, Sriram Aananthakrishnan, Josep Torrellas, and Ibrahim Hur  
    *Proceedings of the International Symposium on High Performance Computer Architecture (HPCA)*, March 2024.
 
