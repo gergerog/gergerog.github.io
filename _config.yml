@@ -23,7 +23,7 @@ repository               : "gergerog/gergerog.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "main_pic.png"
+  avatar           : "main_pic.jpg"
   name             : "Gerasimos Gerogiannis"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ UIUC"
