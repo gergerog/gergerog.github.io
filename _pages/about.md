@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+**I am in the academic job market this cycle, looking for a tenure-track assistant professor position!**
+**My research lies at the intersection of computer architecture, machine learning, and high-performance computing.**
+**I would be happy to [discuss potential opportunities](mailto:gg24@illinois.edu)!**
 
 Hi! I am Gerasimos Gerogiannis, a PhD candidate in the University of Illinois at Urbana-Champaign (UIUC). Since Gerasimos tends to be difficult to pronounce, I am mostly known by my nickname Makis. I am a member of the i-acoma computer architecture group and I am advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
 Prior to joining UIUC, I received the Diploma Degree (BSc+MSc) in Electrical and Computer Engineering from the University of Patras, Greece. 
