@@ -78,6 +78,10 @@ author_profile: true
 
 ## Workshop Publications (with proceedings)
 
+2. <span class="color-orange-light">**[ICML-EXAIT-25]**</span> [*Performance-Driven Composite Prefetching with Bandits*](https://gergerog.github.io/files/dpc26.pdf)   
+   Charles Block, Pedro Palacios Almendros, Abraham Farrell, **Gerasimos Gerogiannis**, and Josep Torrellas  
+   *Fourth Data Prefetching Champsionship (DPC4) at HPCA*, 2026.
+
 1. <span class="color-orange-light">**[ICML-EXAIT-25]**</span> [*Automated Data Selection for Efficient Cost Model Training to Optimize Sparse Matrix Kernels on Emerging Hardware Accelerators*](https://gergerog.github.io/files/exait25.pdf)   
    Chamika Sudusinghe, **Gerasimos Gerogiannis**, Damitha Lenadora, Charles Block, Josep Torrellas, and Charith Mendis  
    *Exploration in AI Today Workshop at ICML*, 2025.
