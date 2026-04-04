@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference Publications
 
+13. <span class="color-blue-dark">**[ISCA-26]**</span> [*ATX: Accelerator Task Extensions*](https://gergerog.github.io/files/isca26_1.pdf)   
+   **Gerasimos Gerogiannis**, Stijn Eyerman, Josep Torrellas, and Wim Heirman 
+   To appear in *Proceedings of the International Symposium on Computer Architecture (ISCA)*, June 2026.
+
 12. <span class="color-green-light">**[CGO-26]**</span> [*GRANII: Selection and Ordering of Primitives in GRAph Neural Networks using Input Inspection*](https://gergerog.github.io/files/cgo26.pdf)   
    Damitha Lenadora, Vimarsh Sathia, **Gerasimos Gerogiannis**, Serif Yesil, Josep Torrellas, and Charith Mendis  
    *Proceedings of the International Symposium on Code Generation and Optimization (CGO)*, February 2026.
