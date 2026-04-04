@@ -78,7 +78,7 @@ author_profile: true
 
 ## Workshop Publications (with proceedings)
 
-2. <span class="color-orange-light">**[ICML-EXAIT-25]**</span> [*Performance-Driven Composite Prefetching with Bandits*](https://gergerog.github.io/files/dpc26.pdf)   
+2. <span class="color-blue-dark">**[HPCA-DPC4-26]**</span> [*Performance-Driven Composite Prefetching with Bandits*](https://gergerog.github.io/files/dpc26.pdf)   
    Charles Block, Pedro Palacios Almendros, Abraham Farrell, **Gerasimos Gerogiannis**, and Josep Torrellas  
    *Fourth Data Prefetching Champsionship (DPC4) at HPCA*, 2026.
 
