@@ -13,7 +13,7 @@ redirect_from:
 **I am recruiting multiple PhD students to join my group at UCI.**
 **If you are interested, please feel free to [send me an email](mailto:gg24@illinois.edu)!**
 
-**Although my research primarily focuses on computer architecture, I would also be excited to hear from students with backgrounds in applied machine learning for systems, networking, emerging device technologies, or heterogeneous integration.**
+**Although my research primarily focuses on computer architecture, I would also be excited to hear from students interested in applied machine learning for systems, networking, emerging device technologies, or heterogeneous integration.**
 
 
 Hi! I am Gerasimos Gerogiannis, a Visiting Faculty Researcher at Google and an incoming Assistant Professor of Computer Science at the University of California, Irvine. Since Gerasimos can be difficult to pronounce, I usually go by my nickname, Makis.
