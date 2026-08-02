@@ -8,8 +8,8 @@ author_profile: true
 ## Education
 
 **University of Illinois at Urbana-Champaign (UIUC)** — *PhD, Electrical and Computer Engineering*  
-**Aug 2021 – present**  
-- Thesis: *“Towards Accelerator-Centric Computing”*  
+**Aug 2021 – Aug 2026**  
+- Thesis: *“Coupling, Scaling, and Optimizing Accelerator-Centric Systems”*  
 - Advisor: Prof. Josep Torrellas  
 - GPA: 4.0/4.0
 
@@ -36,6 +36,6 @@ author_profile: true
 
 
 **i-acoma Group, UIUC — Research Assistant**  
-**Aug 2021 – present**  
+**Aug 2021 – Aug 2026**  
 
 ---

@@ -26,9 +26,9 @@ author:
   avatar           : "main_pic.jpg"
   name             : "Gerasimos Gerogiannis"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate @ UIUC"
-  location         : "Champaign,IL"
-  employer         : "University of Illinois"
+  bio              : "Visiting Faculty Researcher @ Google and Incoming Assistant Professor @ UCI"
+  # location         : "Champaign,IL"
+  #employer         : "University of Illinois"
   uri              : # URL
   email            : "gg24@illinois.edu" 
 

@@ -89,3 +89,10 @@ author_profile: true
 1. <span class="color-orange-light">**[ICML-EXAIT-25]**</span> [*Automated Data Selection for Efficient Cost Model Training to Optimize Sparse Matrix Kernels on Emerging Hardware Accelerators*](https://gergerog.github.io/files/exait25.pdf)   
    Chamika Sudusinghe, **Gerasimos Gerogiannis**, Damitha Lenadora, Charles Block, Josep Torrellas, and Charith Mendis  
    *Exploration in AI Today Workshop at ICML*, 2025.
+
+---
+
+## Dissertation
+
+1. [*Coupling, Scaling, and Optimizing Accelerator-Centric Systems*](https://gergerog.github.io/files/Thesis.pdf)   
+   **Gerasimos Gerogiannis**, University of Illinois at Urbana-Champaign, PhD Thesis, 2026.
