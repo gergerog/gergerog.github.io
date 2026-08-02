@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-**In Fall 2027, I will join the Department of Computer Science at the University of California, Irvine, as an Assistant Professor!**
+**In Fall 2027, I will join the Department of Computer Science at the University of California, Irvine, as an Assistant Professor.**
 **Before that, I will spend a year as a Visiting Faculty Researcher at Google in Sunnyvale.**
+
 **I am recruiting multiple PhD students to join my group at UCI.**
 **If you are interested, please feel free to [send me an email](mailto:gg24@illinois.edu)!**
+
 **Although my research primarily focuses on computer architecture, I would also be excited to hear from students with backgrounds in applied machine learning for systems, networking, emerging device technologies, or heterogeneous integration.**
 
 
