@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- **I am in the academic job market this cycle, looking for a tenure-track assistant professor position!**
-**My research lies at the intersection of computer architecture, machine learning, and high-performance computing.**
-**I would be happy to [discuss potential opportunities](mailto:gg24@illinois.edu)!** -->
+**In Fall 2027, I will join the Department of Computer Science at the University of California, Irvine, as an Assistant Professor!**
+**Before that, I will spend a year as a Visiting Faculty Researcher at Google in Sunnyvale.**
+**I am recruiting multiple PhD students to join my group at UCI.**
+**If you are interested, please feel free to [send me an email](mailto:gg24@illinois.edu)!**
+**Although my research primarily focuses on computer architecture, I would also be excited to hear from students with backgrounds in applied machine learning for systems, networking, emerging device technologies, or heterogeneous integration.**
+
 
 Hi! I am Gerasimos Gerogiannis, a Visiting Faculty Researcher at Google and an incoming Assistant Professor of Computer Science at the University of California, Irvine. Since Gerasimos can be difficult to pronounce, I usually go by my nickname, Makis.
 
@@ -27,7 +30,7 @@ devices to make distributed heterogeneous systems *easier to scale* \[[*Two-Face
 
 Beyond accelerator-centric system design, I am broadly interested in applications of machine learning to computer systems and architecture.
 
-My work has appeared in leading computer architecture and machine learning venues, including ISCA, MICRO, ASPLOS, HPCA, and ICML. I have also filed four U.S. patents with Intel on redesigning CPU architectures for machine learning workloads. My research has been recognized with with one **IEEE MICRO Top Pick** and one **Honorable Mention**.
+My work has appeared in leading computer architecture and machine learning venues, including ISCA, MICRO, ASPLOS, HPCA, and ICML. I have also filed four U.S. patents with Intel on redesigning CPU architectures for machine learning workloads. My research has been recognized with one **IEEE MICRO Top Pick** and one **Honorable Mention**.
 
 
 
