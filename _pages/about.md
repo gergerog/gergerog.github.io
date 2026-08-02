@@ -12,24 +12,22 @@ redirect_from:
 **My research lies at the intersection of computer architecture, machine learning, and high-performance computing.**
 **I would be happy to [discuss potential opportunities](mailto:gg24@illinois.edu)!** -->
 
-Hi! I am Gerasimos Gerogiannis, a PhD candidate in the University of Illinois at Urbana-Champaign (UIUC). Since Gerasimos tends to be difficult to pronounce, I am mostly known by my nickname Makis. I am a member of the i-acoma computer architecture group and I am advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html).
-Prior to joining UIUC, I received the Diploma Degree (BSc+MSc) in Electrical and Computer Engineering from the University of Patras, Greece. 
+Hi! I am Gerasimos Gerogiannis, a Visiting Faculty Researcher at Google and an incoming Assistant Professor of Computer Science at the University of California, Irvine. Since Gerasimos can be difficult to pronounce, I usually go by my nickname, Makis.
+
+I received my PhD from the University of Illinois Urbana-Champaign (UIUC), where I was a member of the i-acoma group and was fortunate to be advised by Professor [Josep Torrellas](http://iacoma.cs.uiuc.edu/josep/torrellas.html). Before joining UIUC, I earned a Diploma in Electrical and Computer Engineering (equivalent to a combined BSc and MSc) from the University of Patras in Greece.
 
 I am interested in building efficient accelerator-based heterogeneous systems for machine learning and scientific applications.
 My research has exposed fundamental barriers to the efficiency of modern specialization-rich systems,
 stemming from legacy general-purpose design practices. To overcome such barriers, I have re-architected and co-designed the end-to-end system stack around heterogeneity – from accelerators to processors, networks, algorithms, and optimizing compilers. I refer to this holistic system design paradigm as *accelerator-centric*.
 
-To bridge the gaps between hosts and devices, I have co-designed processor and accelerator architectures that *eliminate control and data movement overheads* \[[*SPADE*-**ISCA'23**](https://gergerog.github.io/files/isca23.pdf)\],\[[*DECA*-**MICRO'25**](https://gergerog.github.io/files/micro25-1.pdf)\]. Further, I have proposed both analytical and machine learning-aided methods that automate 
+To bridge the gaps between hosts and devices, I have co-designed processor and accelerator architectures that *eliminate control and data movement overheads* \[[*SPADE*-**ISCA'23**](https://gergerog.github.io/files/isca23.pdf)\],\[[*DECA*-**MICRO'25**](https://gergerog.github.io/files/micro25-1.pdf),\[[*ATX*-**ISCA'26**](https://gergerog.github.io/files/isca26-1.pdf)\]. Further, I have proposed both analytical and machine learning-aided methods that automate 
 performance optimization, making emerging accelerators *easier to program and tune* \[[*Bandit*-**MICRO'23**](https://gergerog.github.io/files/micro23.pdf)\],\[[*HotTiles*-**HPCA'24**](https://gergerog.github.io/files/hpca24.pdf)\],\[[*COGNATE*-**ICML'25**](https://gergerog.github.io/files/icml25.pdf)\],\[[*Micro-Mama*-**MICRO'25**](https://gergerog.github.io/files/micro25-2.pdf)\]. 
 Finally, I redesigned software communication algorithms and hardware networking
 devices to make distributed heterogeneous systems *easier to scale* \[[*Two-Face*-**ASPLOS'24**](https://gergerog.github.io/files/asplos24.pdf)\],\[[*MeshSlice*-**ISCA'25**](https://gergerog.github.io/files/isca25.pdf)\],\[[*NetSparse*-**MICRO'25**](https://gergerog.github.io/files/micro25-3.pdf)\].
 
-Besides accelerator-centric system design, I am also broadly interested in the applications of machine-learning to systems and computer architecture. 
+Beyond accelerator-centric system design, I am broadly interested in applications of machine learning to computer systems and architecture.
 
-I have published 14 papers (8 as first author), with most appearing in top-tier venues such as ISCA, MICRO, ASPLOS, HPCA, and ICML.
-In addition, I have filed four U.S. patents with Intel on CPU architecture redesign for Machine Learning workloads. 
-Among other awards, my research has been recognized with one **IEEE MICRO Top Pick** and one **Honorable Mention**. 
-
+My work has appeared in leading computer architecture and machine learning venues, including ISCA, MICRO, ASPLOS, HPCA, and ICML. I have also filed four U.S. patents with Intel on redesigning CPU architectures for machine learning workloads. My research has been recognized with with one **IEEE MICRO Top Pick** and one **Honorable Mention**.
 
 
 
